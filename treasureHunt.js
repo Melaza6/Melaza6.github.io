@@ -11,10 +11,10 @@ alert("You are connected!")
   // bomb cannot be the same tile as treasure
   // all tiles should be random
 
-  const button = document.querySelector('button')
-button.onclick = () => {
-  window.location.reload();
-}
+//   const button = document.querySelector('button')
+// button.onclick = () => {
+//   window.location.reload();
+// }
 
 const button = document.querySelector('button')
 button.onclick = () => {
