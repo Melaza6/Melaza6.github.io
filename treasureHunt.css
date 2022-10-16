@@ -1,0 +1,35 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/59/19/61/591961e720c81a1280ac08393a0c7877.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-color:
+  }
+  
+  table {
+    width: 15%;
+  }
+  
+  th {
+    height: 1000px;
+  }
+  
+  td {
+    font-size: 8em;
+  }
+  
+  h1,h3 {
+    font-size: 4.5em;
+  }
+  
+  li {
+    font-size: 2em;
+    width: 18%;
+    text-align: left;
+    background-color: #42d1dbb8
+  }
+  
+  button {
+    font-size: 30px;
+    background-color: #42d1db;
+  }
