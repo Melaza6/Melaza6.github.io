@@ -21,10 +21,10 @@ button.onclick = () => {
   window.location.reload();
 }
 
-// var bomb = Math.floor(Math.random() * 9 )
-// var treasureLocation = Math.floor(Math.random() * 9 )
-// if(treasureLocation === bomb){
-// var treasureLocation = Math.floor(Math.random() * 9 )}
+var bomb = Math.floor(Math.random() * 9 )
+var treasureLocation = Math.floor(Math.random() * 9 )
+if(treasureLocation === bomb){
+var treasureLocation = Math.floor(Math.random() * 9 )}
 
 
 const treasure = (location) => {
